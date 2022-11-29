@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm @rxzin</h1>
 - 🌱 I’m currently learning **Java + DSA.**
+
 -👀I'm interested in Web Development
+
 - 📫 How to reach me **https://www.linkedin.com/in/razin-c-6943aa145/**
 
 <h3 align="left">Connect with me:</h3>
