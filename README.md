@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Razin</h1>
-- 🌱 I’m currently learning Java + DSA.
+ 🌱 I’m currently learning Java + DSA.
 
-- 👀 I’m interested in Web Development.
+ 👀 I’m interested in Web Development.
 
-- 📫 How to reach me razin59185@gmail.com
+ 📫 How to reach me razin59185@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
