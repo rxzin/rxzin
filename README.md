@@ -1,6 +1,10 @@
 # 💫 About Me:
 I'm interested in Web Development.<br>I'm currently learning Java + DSA.<br>How to reach me  razin59185@gmail.com
 
+<div align="center">
+  <img  src="https://github.com/rxzin/rxzin/blob/main/grid_snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rxzin.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RazinChinwala) 
