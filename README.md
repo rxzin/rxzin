@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm interested in Web Development.<br>I'm currently learning Java + DSA.<br>How to reach me  razin59185@gmail.com
+I'm interested in Artificial Intelligence .<br>I'm currently learning Machine Learning.<br>How to reach me  razin59185@gmail.com
 
 <div align="center">
   <img  src="https://github.com/rxzin/rxzin/blob/main/grid_snake.svg"
